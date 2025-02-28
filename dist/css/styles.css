@@ -23,8 +23,7 @@ body {
 }
 
 .bgSpace {
-  background: rgb(11,13,35);
-  background: linear-gradient(0deg, rgba(150,150,250,1) 0%, rgba(180,180,250,1) 50%, rgba(220,220,250,1) 100%);
+  background: rgb(131,153,235);
   opacity: 0;
 }
 
