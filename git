@@ -1,0 +1,3 @@
+git remote add upstream https://github.com/BrianGilbert/xdebug-helper-for-firefox.git
+git fetch upstream
+git checkout -b branch-name upstream/main
